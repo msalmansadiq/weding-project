@@ -724,7 +724,7 @@ header #menu_bar:hover{
         font-size: 1.7rem;
     }
     .container p{
-        top: 45rem;
+        top: 55rem;
     }
 }
 @media (max-width: 450px){
